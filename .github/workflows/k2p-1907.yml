@@ -24,7 +24,7 @@ on:
     types: started
 env:
   REPO_URL: https://github.com/Lienol/openwrt
-  REPO_BRANCH: 1907
+  REPO_BRANCH: 19.07
   AUTHOR: Lienol
   FIRMWARE_00: Passwall 
   FEEDS_CONF: dev-master-feeds.conf.default.bak
