@@ -28,7 +28,7 @@ env:
   AUTHOR: Lienol
   FIRMWARE_00: Passwall 
   FEEDS_CONF: dev-master-feeds.conf.default.bak
-  CONFIG_FILE: k2p-1907.config
+  CONFIG_FILE: .config.k2p-lienol-20201208-1616
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   SSH_ACTIONS: false
